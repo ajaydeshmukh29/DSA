@@ -1,16 +1,19 @@
-# DSA Practice Repository
+# 🚀 DSA Practice Repository
 
-Welcome to my DSA Practice Repository.
+Welcome to my **DSA Practice Repository**.
 
-## Languages
+## 💻 Languages
 
-- C
-- C++
-- Java
-- Python
-  
-📂 Repository Structure
+* C
+* C++
+* Java
+* Python
 
+---
+
+## 📂 Repository Structure
+
+```text
 DSA/
 │
 ├── C/
@@ -18,67 +21,82 @@ DSA/
 │   ├── Strings/
 │   ├── Searching/
 │   ├── Sorting/
-│   ├── Linked List/
+│   ├── LinkedList/
 │   ├── Stack/
 │   ├── Queue/
 │   ├── Trees/
 │   ├── Graph/
-│   └── Dynamic Programming/
+│   └── DynamicProgramming/
 │
 ├── CPP/
 │   ├── Arrays/
 │   ├── Strings/
 │   ├── Searching/
 │   ├── Sorting/
-│   ├── Linked List/
+│   ├── LinkedList/
 │   ├── Stack/
 │   ├── Queue/
 │   ├── Trees/
 │   ├── Graph/
-│   └── Dynamic Programming/
+│   └── DynamicProgramming/
 │
 └── Java/
     ├── Arrays/
     ├── Strings/
     ├── Searching/
     ├── Sorting/
-    ├── Linked List/
+    ├── LinkedList/
     ├── Stack/
     ├── Queue/
     ├── Trees/
     ├── Graph/
-    └── Dynamic Programming/
+    └── DynamicProgramming/
+```
 
-📚 Topics Covered
--Time & Space Complexity
--Arrays
--Strings
--Searching Algorithms
--Sorting Algorithms
--Bit Manipulation
--Recursion
--Linked List
--Stack
--Queue
--Hashing
--Trees
--Binary Search Tree
--Heap
--Graph
--Greedy Algorithms
--Backtracking
--Dynamic Programming
--Sliding Window
--Two Pointers
+---
 
+## 📚 Topics Covered
 
-## Goal
+* Time & Space Complexity
+* Arrays
+* Strings
+* Searching Algorithms
+* Sorting Algorithms
+* Bit Manipulation
+* Recursion
+* Linked List
+* Stack
+* Queue
+* Hashing
+* Trees
+* Binary Search Tree (BST)
+* Heap
+* Graph
+* Greedy Algorithms
+* Backtracking
+* Dynamic Programming
+* Sliding Window
+* Two Pointers
 
-Solve DSA problems daily and upload them to GitHub.
+---
 
-🤝 Contributions
+## 🎯 Goal
+
+* Solve DSA problems daily.
+* Learn concepts in multiple programming languages.
+* Build consistency through daily GitHub commits.
+* Prepare for coding interviews.
+
+---
+
+## 🤝 Contributions
+
 This repository is primarily for personal learning. Suggestions and improvements are always welcome.
 
+---
 
-⭐ If you find this repository helpful, don't forget to Star it!
+## ⭐ Support
+
+If you find this repository helpful, consider giving it a ⭐.
+
 Happy Coding! 🚀
