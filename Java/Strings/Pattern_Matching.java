@@ -1,4 +1,14 @@
+<<<<<<< HEAD
 import java.util.*;
+=======
+/////////////////////////////////////////////////////////////////////////
+//
+//  Split the String using the .split() method
+//
+/////////////////////////////////////////////////////////////////////////
+import java.util.Scanner;
+
+>>>>>>> e6d45ada7645e36e307e4000e87909eb51756d8a
 class Pattern_Matching
 {
   public static void main(String A[])
@@ -21,4 +31,9 @@ class Pattern_Matching
       System.out.println(Arr[i]);
     }
   }
+<<<<<<< HEAD
 }
+=======
+}
+}
+>>>>>>> e6d45ada7645e36e307e4000e87909eb51756d8a
