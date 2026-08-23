@@ -1,19 +1,24 @@
-import java.util.Scanner;
-
+import java.util.*;
 class Pattern_Matching
 {
-public static void main(String A[])
-{
-  Scanner sobj = new Scanner(System.in);
-  String str = null;
-
-  System.out.println("Enter the string : ");
-  str = sobj.nextLine();
-
-  String Tokens[] = str.split(" ");
-    for(int i = 0; i< Tokens.length; i++)
+  public static void main(String A[])
   {
-    System.out.println(Tokens[i].length());
+    Scanner sobj = new Scanner(System.in);
+
+    String str = null;
+
+    System.out.println("Enter string : ");
+    str = sobj.nextLine();
+
+    str = str.trim();
+    str = str.replaceAll("\\s+", " ");
+
+    String Arr[] = str.split(" ");
+
+    System.out.println("Number of words are : ");
+    for(int i = 0; i<Arr.length; i++)
+    {
+      System.out.println(Arr[i]);
+    }
   }
-}
 }

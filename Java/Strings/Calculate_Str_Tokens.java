@@ -13,16 +13,16 @@ class Calculate_Str_Tokens
     Scanner sobj = new Scanner(System.in);
     String str = null;
 
-    System.out.println("-----------------------------------------");
     System.out.println("Enter the string : ");
     str = sobj.nextLine();
-    System.out.println("-----------------------------------------");
     
     str = str.trim();
     str = str.replaceAll("\\s+", " ");
     
     String Tokens[] = str.split(" ");
     
+    System.out.println("-----------------------------------------");
+    System.out.println("Tokens : ");
     for(int i = 0; i < Tokens.length; i++)
       {
         System.out.println(Tokens[i]);
