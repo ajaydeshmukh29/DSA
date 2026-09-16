@@ -5,7 +5,6 @@ import java.util.*;
 //  Split the String using the .split() method
 //
 /////////////////////////////////////////////////////////////////////////
-import java.util.Scanner;
 
 class Pattern_Matching
 {
