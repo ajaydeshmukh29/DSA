@@ -20,9 +20,7 @@ class Palindrome
     str = str.replaceAll("\\s+", " ");
     String Tokens[] = str.split(" ");
     
-    System.out.println("Tokens are : ");    
-
-    System.out.println("------------------------------------------------------------------ ");                            
+    System.out.println("Tokens are : ");                               
     for(int i = Tokens.length; i >= 0; i--)
       {
         System.out.println(Tokens[i]+" : "+Tokens[i].length());
