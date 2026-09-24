@@ -40,7 +40,5 @@ class Maxmum_Occured_Charactor
       }
     }
     System.out.println("Maximum occured character is : " +ch+ " with frequenccy : "+iMax);
-   
-
   }
 }
