@@ -1,3 +1,5 @@
+// All empty functions for Linked List Data type
+
 #include<stdio.h>
 
 #pragma pack(1)
