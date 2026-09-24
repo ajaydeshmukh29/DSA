@@ -25,7 +25,6 @@ class Maxmum_Occured_Charactor
       {
         Frequency[(int)Arr[i] - 97]++;
       }
-
     }
 
     int iMax = 0;
