@@ -1,4 +1,5 @@
-/* Singly Linked List for the Count funcitons operation */
+/* Singly Linked List for the Count funcitons operation 
+  It count the total nodes in the linked list */
 
 #include<stdio.h>
 #include<stdlib.h>
