@@ -1,8 +1,6 @@
-///////////////////////////////////////////////////
-//
-//  Application which is used to reverse the string 
-//
-//////////////////////////////////////////////////
+/*
+*   Application which is used to reverse the string in java programming
+*/
 
 import java.util.Scanner;
 
