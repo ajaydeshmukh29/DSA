@@ -24,8 +24,7 @@ class Palindrome
     for(int i = Tokens.length; i >= 0; i--)
       {
         System.out.println(Tokens[i]+" : "+Tokens[i].length());
-      }
-      System.out.println("------------------------------------------------------------------- ");                            
+      }                           
     }
 }
 
