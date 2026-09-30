@@ -55,9 +55,6 @@ class SinglyLL
 
 }
 
-
-
-
 public class Singly_LinkedList_All_Functions
 {
   public static void main(String A[])
