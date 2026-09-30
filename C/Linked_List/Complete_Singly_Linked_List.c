@@ -3,7 +3,7 @@
  *  Singly Linked List - Complete Implementation
  *  Author  : Ajay Dnyaneshwar Deshmukh
  *  Github  : github.com/ajaydeshmukh29
- *  Desc    : Menu driven program demonstrating all major
+ *  Goal    : program demonstrating all major
  *            operations on a Singly Linked List
  * ============================================================
  */

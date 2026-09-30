@@ -1,4 +1,6 @@
+// Binary Search Tree
 #include<iostream>
+
 using namespace std;
 
 struct node

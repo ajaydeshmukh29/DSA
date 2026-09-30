@@ -1,3 +1,7 @@
+///////////////////////////////////////////////////////////////////////////
+//  Application which calculate the maximum occured charactor in sting
+//////////////////////////////////////////////////////////////////////////
+
 import java.util.Scanner;
 
 class Maxmum_Occured_Charactor
@@ -23,11 +27,9 @@ class Maxmum_Occured_Charactor
     {
       if(Arr[i] >= 'a' && Arr[i] <= 'z')
       {
-        Frequency[(int)Arr[i] - 97]++;
+        Frequency[(int)Arr[i] - 97]++;  
       }
-
     }
-
     int iMax = 0;
     char ch ='\0';
 
@@ -40,7 +42,5 @@ class Maxmum_Occured_Charactor
       }
     }
     System.out.println("Maximum occured character is : " +ch+ " with frequenccy : "+iMax);
-   
-
   }
 }

@@ -1,3 +1,7 @@
+/*
+*   Application which is used to reverse the string in java programming
+*/
+
 import java.util.Scanner;
 
 class String_word_reversal 

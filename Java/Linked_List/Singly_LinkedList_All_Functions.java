@@ -1,3 +1,6 @@
+/*
+  * All Linked List empty function declairation
+*/
 package Linked_List;
 
 class node
@@ -51,9 +54,6 @@ class SinglyLL
   {}
 
 }
-
-
-
 
 public class Singly_LinkedList_All_Functions
 {
