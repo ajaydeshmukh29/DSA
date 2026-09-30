@@ -1,4 +1,6 @@
-
+/*
+  * All Linked List empty function declairation
+*/
 package Linked_List;
 
 class node
