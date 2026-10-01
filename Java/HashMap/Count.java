@@ -1,3 +1,6 @@
+/*
+  * Collections in java - HashMap
+*/
 package HashMap;
 
 import java.util.HashMap;
