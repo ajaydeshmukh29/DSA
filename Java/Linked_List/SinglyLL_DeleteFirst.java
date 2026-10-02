@@ -1,3 +1,7 @@
+/*
+*  Singly linked list Delete function
+*/
+
 package Linked_List;
 
 class node 
