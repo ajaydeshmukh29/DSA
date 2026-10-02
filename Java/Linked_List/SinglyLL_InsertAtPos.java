@@ -30,8 +30,6 @@ class SinglyLL
   public void Display()
   {
     node temp = first;
-
-    
   }
 }
 public class SinglyLL_InsertAtPos 
