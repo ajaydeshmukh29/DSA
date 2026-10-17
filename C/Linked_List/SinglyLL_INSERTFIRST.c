@@ -1,3 +1,5 @@
+// Linked List function - Insert element at first position
+
 #include<stdio.h>
 #include<stdlib.h>
 
