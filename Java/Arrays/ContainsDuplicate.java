@@ -1,9 +1,8 @@
 // Topic - Array
-//        |
-//         --> Contains Duplicate
-/*
+//  Contains Duplicate element  (Leet Code)
 
-  Contains Duplicate element using Java.
+/*
+ Application which diplay the Duplicate element in the array using Java.
 
   Q.1
   Input: nums = [1, 2, 3, 1]
