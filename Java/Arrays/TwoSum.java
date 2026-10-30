@@ -1,4 +1,7 @@
 /*
+Topic - Array 
+  Two Sum Array (Leet Code)
+  
 LeetCode Problem Number 1
 Problem Statement : You are given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
 
