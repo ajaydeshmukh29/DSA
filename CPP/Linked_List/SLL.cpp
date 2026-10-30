@@ -1,43 +1,51 @@
 #include<iostream>
 using namespace std;
 
-class Node {
+class Node 
+{
   public :
     int data;
     Node* next;
 
-    Node(int val) {
+    Node(int val) 
+    {
       data = val;
       next = NULL;
     }
 };
 
-class List {
+class List 
+{
   Node* head;
   Node* tail;
 
   public :
-    List() {
+    List() 
+    {
       head = tail = NULL;
     }
 
-    void push_front(int val) {
+    void push_front(int val) 
+    {
       Node* newNode = new Node(val);
       if(head == NULL)
       {
         head = tail = newNode;
         return; 
       }
-      else {
+      else 
+      {
         newNode->next = head;
         head = newNode;
       }
     }
 
-    void push_back(int val) {
+    void push_back(int val) 
+    {
       Node* newNode = new Node(val);
 
-      if(head == NULL) {
+      if(head == NULL) 
+      {
         head = tail = newNode;
       }
       else
@@ -47,7 +55,8 @@ class List {
       }
     }
 
-    void pop_front() {
+    void pop_front() 
+    {
       if(head == NULL){
         cout<<"LL is empty\n";
         return;
@@ -60,7 +69,8 @@ class List {
       delete temp;
     }
 
-    void pop_back() {
+    void pop_back() 
+    {
       if(head == NULL)
       {
         cout<<"LL is empty\n";
@@ -79,13 +89,16 @@ class List {
 
     }
 
-    void insert(int val, int pos) {
-      if(pos < 0) {
+    void insert(int val, int pos) 
+    {
+      if(pos < 0) 
+      {
         cout << "Invalid pos\n";
         return;
       }
 
-      if(pos == 0) {
+      if(pos == 0) 
+      {
         push_front(val);
         return;
       }
@@ -101,7 +114,8 @@ class List {
       temp->next = newNode;
     }
      
-    void printLL() {
+    void printLL() 
+    {
       Node* temp = head;
 
       while(temp != NULL)
