@@ -1,3 +1,5 @@
+// Array - (Leet Code)
+// Application program which calculate the Best time to buy and sell stock
 
 let price = [7,1,5,3,6,4];
 let maxProfit = 0;
@@ -13,4 +15,6 @@ for(let i = 0; i<price.length; i++)
       maxProfit = profit;
     }
   }
+  console.log(maxProfit)
+  return;
 }
