@@ -4,10 +4,8 @@ Welcome to my **DSA Practice Repository**.
 
 ## 💻 Languages
 
-* C
 * C++
 * Java
-* Python
 
 ---
 
@@ -15,18 +13,6 @@ Welcome to my **DSA Practice Repository**.
 
 ```text
 DSA/
-│
-├── C/
-│   ├── Arrays/
-│   ├── Strings/
-│   ├── Searching/
-│   ├── Sorting/
-│   ├── LinkedList/
-│   ├── Stack/
-│   ├── Queue/
-│   ├── Trees/
-│   ├── Graph/
-│   └── DynamicProgramming/
 │
 ├── CPP/
 │   ├── Arrays/
