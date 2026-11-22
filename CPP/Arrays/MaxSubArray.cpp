@@ -7,7 +7,7 @@ class Solution
 {
   public:
 
-  vector<int> maxSubArray( vector <int> nums)
+  vector<int> maxSubArray(vector <int> nums)
   {
     int maxProduct = INT8_MIN;
 
